@@ -4,6 +4,7 @@ Rencana
   * ES6
   * Frame
     ^ Vue
+    ^ React
 - Fundamental
 - PHP
   ^ Laravel
