@@ -3,7 +3,9 @@ Rencana
 - Java
   * ES6
   * Frame
-- Fundamental
+    ^ Angular
+    ^ React
 - PHP
+  ^ Laravel
 - InterView
 - Vlog
