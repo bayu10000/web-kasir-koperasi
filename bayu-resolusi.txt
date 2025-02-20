@@ -2,3 +2,4 @@
 - Makan
 - Mandi
 - Berangkat
+- Pulang
